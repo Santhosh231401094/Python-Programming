@@ -10,4 +10,4 @@ if a>2:
 elif a==1:
     print(b)
 elif a==2:
-    print(c)
+    print(c) 
