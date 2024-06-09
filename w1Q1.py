@@ -1,6 +1,0 @@
-a=input()
-b=input()
-c=int(a)
-d=float(b)
-print(c,type(c),sep=",")
-print("{:.1f}".format(d),type(d),sep=",")
