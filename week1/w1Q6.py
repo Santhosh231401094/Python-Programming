@@ -1,0 +1,5 @@
+s=int(input())
+a=abs(s-(50*10))
+b=a/(80+50)
+print("weekdays {:.2f}".format(b+10))
+print("weekend {:.2f}".format(b))
